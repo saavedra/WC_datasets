@@ -1,0 +1,17 @@
+datetime, home, home_golas, away_goals, away
+29 June 201120:45 UTC+8,Malaysia,2,1,Chinese
+3 July 201119:00 UTC+8,Chinese,Taipei,3–2
+29 June 201118:00 UTC+6,Bangladesh,3,0,Pakistan
+3 July 201120:30 UTC+5,Pakistan,0,0,Bangladesh
+29 June 201115:00 UTC+7,Cambodia,4,2,Laos
+3 July 201118:00 UTC+7,Laos,6,2,(a.e.t.)
+29 June 201116:00 UTC+5:30,Sri,Lanka,1–1
+3 July 201115:30 UTC+8,Philippines,4,0,Sri
+29 June 201116:00 UTC+5,Afghanistan,0,2,Palestine
+3 July 201117:00 UTC+3,Palestine,1,1,Afghanistan
+29 June 201119:15 UTC+7,Vietnam,6,0,Macau
+3 July 201119:00 UTC+8,Macau,1,7,Vietnam
+29 June 201115:30 UTC+5:45,Nepal,2,1,Timor-Leste
+2 July 201115:30 UTC+5:45,Timor-Leste,0,5,Nepal
+29 June 201118:30 UTC+8,Mongolia,1,0,Myanmar
+3 July 201115:30 UTC+6:30,Myanmar,2,0,Mongolia

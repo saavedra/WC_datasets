@@ -1,0 +1,11 @@
+datetime, home, home_golas, away_goals, away
+12 October 201317:00 UTC±0,Ivory,Coast,3–1
+16 November 201319:00 UTC±0,Senegal,1,1,Ivory
+13 October 201316:00 UTC+3,Ethiopia,1,2,Nigeria
+16 November 201316:00 UTC+1,Nigeria,2,0,Ethiopia
+13 October 201318:00 UTC+1,Tunisia,0,0,Cameroon
+17 November 201315:00 UTC+1,Cameroon,4,1,Tunisia
+15 October 201316:00 UTC±0,Ghana,6,1,Egypt
+19 November 201318:00 UTC+2,Egypt,2,1,Ghana
+12 October 201316:00 UTC±0,Burkina,Faso,3–2
+19 November 201319:15 UTC+1,Algeria,1,0,Burkina

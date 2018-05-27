@@ -1,0 +1,11 @@
+datetime, home, home_golas, away_goals, away
+15 June 201118:00 UTC−4,Montserrat,2,5,Belize
+17 July 201116:00 UTC−6,Belize,3,1,Montserrat
+8 July 201115:30 UTC−4,Anguilla,0,2,Dominican
+10 July 201115:30 UTC−4,Dominican,Republic,4–0
+3 July 201116:00 UTC−4,U.S.,Virgin,Islands
+10 July 201115:00 UTC−4,British,Virgin,Islands
+8 July 201120:00 UTC−4,Aruba,4,2,Saint
+12 July 201115:30 UTC−4,Saint,Lucia,4–2
+2 July 201117:00 UTC−4,Turks,and,Caicos
+9 July 201116:00 UTC−4,Bahamas,6,0,Turks
