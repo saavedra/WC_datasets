@@ -1,4 +1,4 @@
-datetime, home, home_golas, away_goals, away
+datetime, home, home_goals, away_goals, away
 11 November 201117:00 UTC+4,Seychelles,0,3,Kenya
 15 November 201116:00 UTC+3,Kenya,4,0,Seychelles
 11 November 201116:00 UTC±0,Guinea-Bissau,1,1,Togo

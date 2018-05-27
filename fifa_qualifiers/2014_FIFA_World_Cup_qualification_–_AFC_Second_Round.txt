@@ -1,4 +1,4 @@
-datetime, home, home_golas, away_goals, away
+datetime, home, home_goals, away_goals, away
 23 July 201118:00 UTC+7,Thailand,1,0,Palestine
 28 July 201118:00 UTC+3,Palestine,2,2,Thailand
 23 July 201117:00 UTC+3,Lebanon,4,0,Bangladesh

@@ -1,4 +1,4 @@
-datetime, home, home_golas, away_goals, away
+datetime, home, home_goals, away_goals, away
 2 June 201215:00 UTC+1,Central,African,Republic
 3 June 201215:00 UTC+2,South,Africa,1–1
 9 June 201215:00 UTC+2,Botswana,1,1,South

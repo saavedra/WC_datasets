@@ -1,4 +1,4 @@
-datetime, home, home_golas, away_goals, away
+datetime, home, home_goals, away_goals, away
 29 June 201120:45 UTC+8,Malaysia,2,1,Chinese
 3 July 201119:00 UTC+8,Chinese,Taipei,3–2
 29 June 201118:00 UTC+6,Bangladesh,3,0,Pakistan

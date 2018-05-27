@@ -1,4 +1,4 @@
-datetime, home, home_golas, away_goals, away
+datetime, home, home_goals, away_goals, away
 8 June 201219:11 UTC−4,United,States,3–1
 8 June 201220:30 UTC−5,Jamaica,2,1,Guatemala
 12 June 201219:00 UTC−4,Antigua,and,Barbuda

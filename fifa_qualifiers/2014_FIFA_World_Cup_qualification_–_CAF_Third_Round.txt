@@ -1,4 +1,4 @@
-datetime, home, home_golas, away_goals, away
+datetime, home, home_goals, away_goals, away
 12 October 201317:00 UTC±0,Ivory,Coast,3–1
 16 November 201319:00 UTC±0,Senegal,1,1,Ivory
 13 October 201316:00 UTC+3,Ethiopia,1,2,Nigeria

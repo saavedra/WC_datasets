@@ -1,4 +1,4 @@
-datetime, home, home_golas, away_goals, away
+datetime, home, home_goals, away_goals, away
 15 June 201118:00 UTC−4,Montserrat,2,5,Belize
 17 July 201116:00 UTC−6,Belize,3,1,Montserrat
 8 July 201115:30 UTC−4,Anguilla,0,2,Dominican

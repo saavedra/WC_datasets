@@ -1,4 +1,4 @@
-datetime, home, home_golas, away_goals, away
+datetime, home, home_goals, away_goals, away
 6 February 201315:00 UTC−6,Honduras,2,1,United
 6 February 201321:00 UTC−5,Panama,2,2,Costa
 6 February 201320:30 UTC−6,Mexico,0,0,Jamaica

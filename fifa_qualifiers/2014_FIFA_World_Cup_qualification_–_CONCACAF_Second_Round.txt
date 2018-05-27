@@ -1,4 +1,4 @@
-datetime, home, home_golas, away_goals, away
+datetime, home, home_goals, away_goals, away
 2 September 201118:00 UTC−3,Suriname,1,0,Cayman
 2 September 201119:30 UTC−6,El,Salvador,3–2
 6 September 201115:00 UTC−4,Dominican,Republic,1–1

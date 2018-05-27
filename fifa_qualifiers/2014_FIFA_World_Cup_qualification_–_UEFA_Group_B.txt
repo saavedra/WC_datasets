@@ -1,4 +1,4 @@
-datetime, home, home_golas, away_goals, away
+datetime, home, home_goals, away_goals, away
 7 September 201220:00 UTC+2,Malta,0,1,Armenia
 7 September 201221:45 UTC+3,Bulgaria,2,2,Italy
 8 September 201220:15 UTC+2,Denmark,0,0,Czech

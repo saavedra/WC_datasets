@@ -1,4 +1,4 @@
-datetime, home, home_golas, away_goals, away
+datetime, home, home_goals, away_goals, away
 3 June 201219:00 UTC+5,Uzbekistan,0,1,Iran
 3 June 201220:30 UTC+3,Lebanon,0,1,Qatar
 8 June 201216:00 UTC+3,Lebanon,1,1,Uzbekistan

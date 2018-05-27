@@ -1,4 +1,4 @@
-datetime, home, home_golas, away_goals, away
+datetime, home, home_goals, away_goals, away
 7 September 201222:00 UTC+6,Kazakhstan,1,2,Republic
 7 September 201220:45 UTC+2,Germany,3,0,Faroe
 11 September 201220:30 UTC+2,Sweden,2,0,Kazakhstan

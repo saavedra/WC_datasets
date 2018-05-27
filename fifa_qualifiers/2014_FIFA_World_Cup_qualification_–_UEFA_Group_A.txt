@@ -1,4 +1,4 @@
-datetime, home, home_golas, away_goals, away
+datetime, home, home_goals, away_goals, away
 7 September 201220:15 UTC+2,Croatia,1,0,Macedonia
 7 September 201219:45 UTC+1,Wales,0,2,Belgium
 8 September 201215:00 UTC+1,Scotland,0,0,Serbia

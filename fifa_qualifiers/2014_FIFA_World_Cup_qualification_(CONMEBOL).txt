@@ -1,4 +1,4 @@
-datetime, home, home_golas, away_goals, away
+datetime, home, home_goals, away_goals, away
 7 October 201117:00 UTC−2,Uruguay,4,2,Bolivia
 7 October 201116:05 UTC−5,Ecuador,2,0,Venezuela
 7 October 201120:10 UTC−3,Argentina,4,1,Chile
